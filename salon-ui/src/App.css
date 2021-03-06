@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+.header {
+  padding: 10px;
+  text-align: justify;
+  background-color: black;
+  color: white;
+  font-size: 20px;
+}
